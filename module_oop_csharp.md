@@ -110,5 +110,4 @@
 #### Which SQL statement can be used to delete rows?. Describe the syntax briefly.
 #### Which SQL statement can be used to create queries?. Describe the syntax briefly.
 #### How can you join tables together in SQL? When should you do it?
-
 END OF FILE
